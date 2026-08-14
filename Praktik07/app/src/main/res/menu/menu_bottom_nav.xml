@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="About"
+        android:id="@+id/itemAbout"
+        android:icon="@drawable/about"
+        app:showAsAction="always"/>
+    <item
+        android:title="Prodi"
+        android:id="@+id/itemProdi"
+        app:showAsAction="always"
+        android:icon="@drawable/prodi"/>
+    <item
+        android:title="Mahasiswa"
+        android:id="@+id/itemMhs"
+        android:icon="@drawable/mahasiswa"
+        app:showAsAction="always"/>
+    <item
+        android:title="Matkul"
+        android:id="@+id/itemMatkul"
+        android:icon="@drawable/matkul"
+        app:showAsAction="always"/>
+    <item
+        android:title="Nilai"
+        android:id="@+id/itemNilai"
+        android:icon="@drawable/nilai"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/itemTes"
+        android:icon="@drawable/test"
+        android:title="Test"
+        app:showAsAction="always" />
+</menu>

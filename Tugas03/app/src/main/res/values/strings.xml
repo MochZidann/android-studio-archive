@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tugas03</string>
+    <string name="titleForm">Inventaris Obat &amp; Pupuk</string>
+    <string name="hNama">Nama Produk</string>
+    <string name="hStok">Jumlah Stok</string>
+    <string name="hJenis">Jenis Barang</string>
+
+    <string name="dpDialog">Pilih Tanggal</string>
+    <string name="tpDialog">Pilih Waktu</string>
+
+    <string name="btnSimpan">SIMPAN</string>
+    <string name="lRiwayat">Riwayat Inventaris:</string>
+    <string name="sDefault">Waktu &amp; Tanggal: belum dipilih</string>
+    <string name="msgBerhasil">Data Berhasil Disimpan</string>
+    <string name="msgError">Lengkapi semua data!</string>
+</resources>

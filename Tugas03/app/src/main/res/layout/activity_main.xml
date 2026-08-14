@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingLeft="20dp"
+    android:paddingRight="20dp"
+    android:paddingBottom="20dp"
+    android:paddingTop="120dp"
+    android:background="#F8F9FA">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/titleForm"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:textColor="#212121"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="25dp"/>
+
+    <EditText
+        android:id="@+id/etNamaProduk"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/hNama"
+        android:layout_marginBottom="8dp" />
+
+    <EditText
+        android:id="@+id/etStok"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/hStok"
+        android:inputType="number"
+        android:layout_marginBottom="8dp" />
+
+    <AutoCompleteTextView
+        android:id="@+id/acJenisBarang"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/hJenis"
+        android:completionThreshold="1"
+        android:layout_marginBottom="15dp" />
+
+    <Button
+        android:id="@+id/btnDpd1"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="@string/dpDialog"
+        android:backgroundTint="#1565C0"
+        android:textColor="@android:color/white"
+        android:layout_marginBottom="6dp" />
+
+    <Button
+        android:id="@+id/btnTpd1"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="@string/tpDialog"
+        android:backgroundTint="#1565C0"
+        android:textColor="@android:color/white"
+        android:layout_marginBottom="10dp" />
+
+    <TextView
+        android:id="@+id/txDateTime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/sDefault"
+        android:textAlignment="center"
+        android:textStyle="italic"
+        android:layout_marginBottom="15dp" />
+
+    <Button
+        android:id="@+id/btnSimpan"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:text="@string/btnSimpan"
+        android:backgroundTint="#2E7D32"
+        android:textColor="@android:color/white"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/lRiwayat"
+        android:textStyle="bold"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="8dp"/>
+
+    <ListView
+        android:id="@+id/lvData"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+</LinearLayout>

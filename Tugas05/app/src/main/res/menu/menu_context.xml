@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/itemCopy"
+        android:icon="?attr/actionModeCopyDrawable"
+        android:title="Copy" />
+    <item
+        android:title="Paste"
+        android:id="@+id/itemPaste"/>
+    <item
+        android:title="Delete"
+        android:id="@+id/itemDelete"/>
+    <item
+        android:title="Perkalian"
+        android:id="@+id/Perkalian"/>
+</menu>

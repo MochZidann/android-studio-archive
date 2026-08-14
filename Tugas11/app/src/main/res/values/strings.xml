@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Tugas 11 | Music Player</string>
+    <string name="now_playing">NOW PLAYING</string>
+    <string name="playlist_label">Playlist</string>
+    <string name="unknown_artist">Unknown Artist</string>
+    <string name="pilih_lagu">Pilih Lagu</string>
+
+    <!-- Daftar Judul Lagu -->
+    <string-array name="daftar_judul_lagu">
+        <item>Why Do I</item>
+        <item>Ai Đưa Em Về</item>
+        <item>Nevada</item>
+        <item>Where Are Ü Now</item>
+        <item>Where We Started</item>
+    </string-array>
+
+    <!-- Daftar Nama Artis -->
+    <string-array name="daftar_artist_lagu">
+        <item>Unknown Brain</item>
+        <item>Thiện Hiếu ft. Lê</item>
+        <item>Vicetone</item>
+        <item>Skrillex</item>
+        <item>Lost Sky</item>
+    </string-array>
+</resources>

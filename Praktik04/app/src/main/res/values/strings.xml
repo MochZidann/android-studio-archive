@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Praktik04</string>
+
+    <string name="hintEt">Masukkan nilai</string>
+    <string name="detik">DETIK.COM</string>
+    <string name="galeri">GALLERY</string>
+    <string name="kali">PERKALIAN</string>
+
+    <string name="nilaix">nilai X</string>
+    <string name="nilaiy">nilai Y</string>
+    <string name="x">X</string>
+    <string name="hasil">0</string>
+</resources>

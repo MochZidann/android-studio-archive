@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Praktik10</string>
+    <string name="toolbar_title">Praktik 10</string>
+    <string name="movie_web">idflix.com</string>
+    <string name="default_movie_title">-------- INTERSTELLAR --------</string>
+    <string name="default_movie_detail">Interstellar menyajikan tontonan fiksi ilmiah dengan visual megah dan konsep fisika yang kompleks, namun eksekusi melankolisnya mungkin terasa berlebihan bagi mereka yang mengharapkan alur cepat.</string>
+    <string name="critics_consensus">Critics Consensus</string>
+
+    <string name="label_bg_color">Warna Background Title</string>
+    <string name="label_font_color">Warna Font Title</string>
+    <string name="label_title_size">Ukuran Font Title</string>
+    <string name="label_title_text">Judul</string>
+    <string name="label_detail_size">Ukuran Font Detail</string>
+    <string name="label_detail_text">Isi Detail</string>
+    <string name="btn_save_setting">Simpan Setting</string>
+    <string name="hint_title">Masukkan Judul</string>
+    <string name="hint_detail">Masukkan Detail</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="color_options">
+        <item>Purple</item>
+        <item>Blue</item>
+        <item>Yellow</item>
+        <item>Green</item>
+        <item>Black</item>
+    </string-array>
+</resources>

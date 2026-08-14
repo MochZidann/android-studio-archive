@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Play"
+        android:id="@+id/itemPlay"
+        android:icon="@android:drawable/ic_media_play"/>
+    <item
+        android:title="Pause"
+        android:id="@+id/itemPause"
+        android:icon="@android:drawable/ic_media_pause"
+        android:visible="true"/>
+    <item
+        android:title="Preferences"
+        android:id="@+id/itemPref"
+        android:icon="@android:drawable/ic_menu_close_clear_cancel">
+        <menu>
+            <item android:title="Equalizer"/>
+            <item android:title="Theme"/>
+        </menu>
+    </item>
+    <item
+        android:title="Pembagian"
+        android:id="@+id/Pembagian"
+        android:icon="@android:drawable/ic_media_pause"
+        android:visible="true"/>
+</menu>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Praktik02</string>
+    <string name="btSimpan">Simpan</string>
+    <string name="tView">View</string>
+    <string name="etNim">NIM</string>
+    <string name="etProdi">Program Studi</string>
+    <string name="etFakultas">Fakultas</string>
+</resources>

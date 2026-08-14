@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Praktik03</string>
+
+    <string name="dPicker">Date Picker</string>
+    <string name="tPicker">Time Picker</string>
+
+    <string name="dpDialog">Date Picker Dialog</string>
+    <string name="tpDialog">Time Picker Dialog</string>
+
+    <string name="jamTanggal">Hari ini, tanggal --/--/----, jam --:--</string>
+</resources>

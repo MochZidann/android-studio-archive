@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tugas04</string>
+
+    <string name="header_title">Tugas04</string>
+
+    <string name="edUsername">Username</string>
+    <string name="edPassword">Password</string>
+    <string name="btnLogin">LOG IN</string>
+
+    <string name="btnKompas">KOMPAS</string>
+    <string name="btnPolinema">POLINEMA</string>
+    <string name="btnGallery">GALLERY</string>
+    <string name="label_input">Input</string>
+    <string name="edX">nilai X</string>
+    <string name="edY">nilai Y</string>
+    <string name="btnPerkalian">PERKALIAN</string>
+    <string name="btnPembagian">PEMBAGIAN</string>
+    <string name="label_hasil">Hasil</string>
+
+    <string name="btnKali">HITUNG KALI</string>
+    <string name="btnBagi">HITUNG BAGI</string>
+    <string name="simbol_kali">X</string>
+    <string name="simbol_bagi">:</string>
+</resources>
