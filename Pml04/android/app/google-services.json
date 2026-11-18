@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "841483761739",
+    "project_id": "mobile-dc1a9",
+    "storage_bucket": "mobile-dc1a9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841483761739:android:e8fc0e0c4318f7268335ce",
+        "android_client_info": {
+          "package_name": "com.example.pml04"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlJMbJ_fQMSjCHcNfgO78ww3yN6LzSX5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
